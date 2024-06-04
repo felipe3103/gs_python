@@ -1,5 +1,5 @@
-### Link do Repositório: 
-### Link do projeto no gitPages:
+### Link do Repositório: https://github.com/felipe3103/gs_python
+### Link do projeto no gitPages:https://github.com/felipe3103/gs_python/blob/main/gs.py
 
 
 # projeto para gereciar lixo
